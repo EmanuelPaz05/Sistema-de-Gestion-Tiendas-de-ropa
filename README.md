@@ -27,7 +27,10 @@ Bootstrap
 📈 Incremento en la eficiencia operativa de las tiendas
 
 📷 Capturas
-![image](https://github.com/user-attachments/assets/c6a2822c-1bc6-4631-92b8-b328bfb01208) ![image](https://github.com/user-attachments/assets/4d126303-ccf0-48d9-83e0-a780af8c6eb9) ![image](https://github.com/user-attachments/assets/19e30009-f7dd-436b-8d7e-6e4d1c6f3112)
+<img src="https://github.com/user-attachments/assets/c6a2822c-1bc6-4631-92b8-b328bfb01208" width="300">
+<img src="https://github.com/user-attachments/assets/4d126303-ccf0-48d9-83e0-a780af8c6eb9" width="300">
+<img src="https://github.com/user-attachments/assets/19e30009-f7dd-436b-8d7e-6e4d1c6f3112" width="300">
+
 
 
 
