@@ -6,9 +6,10 @@ React
 PHP
 MySQL
 Axios
+React Router
 Bootstrap
 
-![image](https://github.com/user-attachments/assets/bd9cdcff-0613-4c04-aff6-233bb76ebdb3)
+![image](https://github.com/user-attachments/assets/ec803f1a-3e6c-47bd-9d28-f31d96ca660f)
 
 
 ✨ Características
@@ -24,6 +25,12 @@ Bootstrap
 👕 Optimización del stock y reducción de pérdidas
 💰 Mejora en la gestión de ventas y clientes
 📈 Incremento en la eficiencia operativa de las tiendas
+
+📷 Capturas
+![image](https://github.com/user-attachments/assets/c6a2822c-1bc6-4631-92b8-b328bfb01208) ![image](https://github.com/user-attachments/assets/4d126303-ccf0-48d9-83e0-a780af8c6eb9) ![image](https://github.com/user-attachments/assets/19e30009-f7dd-436b-8d7e-6e4d1c6f3112)
+
+
+
 
 📩 Contacto
 ---> netsol.ar
